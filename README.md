@@ -1,6 +1,7 @@
 # go-vex
 
 Go library for generating, consuming, and operating on VEX documents
+foo faa foo
 
 [![Build Status](https://github.com/openvex/go-vex/actions/workflows/ci-build-test.yaml/badge.svg?branch=main)](https://github.com/openvex/go-vex/actions/workflows/ci-build-test.yaml?query=branch%3Amain)
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/openvex/go-vex)](https://pkg.go.dev/github.com/openvex/go-vex)
